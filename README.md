@@ -33,5 +33,6 @@ Terminus is a "Cold War" game. Engaging the enemy (capturing) removes their mate
 
 ## License
 This project is licensed under the **PolyForm Noncommercial License 1.0.0**. 
-Personal and educational use is encouraged. Commercial use by third parties 
-is strictly prohibited without prior written permission from the author.
+Personal and educational use is encouraged. Commercial use is strictly prohibited
+without prior written permission from the author.
+Author: ZKKit (Github: https://github.com/ZKKit)
