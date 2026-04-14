@@ -6,10 +6,7 @@ There is no dice, hidden information, or point-tracking. Victory emerges purely 
 
 ## Game Instructions & Setup
 * **Requirements:** Python 3.8+ and Pygame 2.5+.
-* **Installation:** ```bash
-    pip install -r requirements.txt
-    python TerminusGame.py
-    ```
+
 * **Controls:** Left-click a piece to select it. Left-click a highlighted square to move or capture. Use the right sidebar to resign, flip the board, or copy the move log.
 
 ## Game Rules
