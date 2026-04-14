@@ -29,7 +29,7 @@ Boundary Markers and board edges divide the grid into independent partitions. If
 Terminus is a "Cold War" game. Engaging the enemy (capturing) removes their material but permanently freezes your attacking piece into terrain. 
 * **Support Networks:** Because captures require orthogonal support, players must move in phalanxes. Lone pawns are heavily penalized.
 * **Topological Density:** Players must balance the desire to build unbreakable walls (which trap enemy pieces via Isolation) against the risk of creating too much "scar tissue" that chokes their own mobility.
-* **Skills Tested:** Forward prediction, spatial logic constraint optimization, and Nash Equilibrium seeking.v
+* **Skills Tested:** Forward prediction, spatial logic constraint optimization, strategy designing, tactical skills, and Nash Equilibrium seeking in the Game Theory.
 
 ## License
 This project is licensed under the **PolyForm Noncommercial License 1.0.0**. 
